@@ -1,0 +1,1 @@
+pwsh -File C:\autodoc\definIT-Server-Documentation.ps1
